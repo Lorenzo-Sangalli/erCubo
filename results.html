@@ -1,0 +1,48 @@
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-99715444-7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-99715444-7');
+    </script>
+    
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        x_axis  = parseFloat(urlParams.get("work"))
+        y_axis  = parseFloat(urlParams.get("trad"))
+        z_axis  = parseFloat(urlParams.get("gest"))
+    
+    </script>
+    </body>
+
+
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Risultati</title>
+  
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<head>
+	<!-- Load plotly.js into the DOM -->
+	<script src='https://cdn.plot.ly/plotly-2.12.1.min.js'></script>
+</head>
+
+<body>
+	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+</body>
+<!-- partial -->
+  <script  src="./script.js"></script>
+    
+  <br><br><br><br>
+    
+  <h></h>
+
+</body>
+</html>
