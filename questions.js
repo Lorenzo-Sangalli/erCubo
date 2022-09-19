@@ -48,12 +48,14 @@ questions =  [
     {"id": 47, "question": "Dovrebbe esistere un bar nella scuola o all’interno del complesso di istituti, accessibile agli studenti.", "effects": {"gest": 1}},
     {"id": 48, "question": "I corsi e i laboratori extrascolastici attualmente disponibili sono sufficienti per permettere agli studenti di impiegare parte del loro tempo a fini scolastico-ricreativi", "effects": {"gest": -2}},
     {"id": 49, "question": "Gli studenti dovrebbero avere un tavolo di confronto immediato e permanente con le istituzioni.", "effects": {"gest": 2}},
-    {"id": 50, "question": "Il personale non docente dei collaboratori scolastici si dimostra collaborativo nello svolgimento delle sue funzioni.", "effects": {"trad": 1}},
-    {"id": 51, "question": "Il personale scolastico amministrativo si pone con grande disponibilità verso i problemi degli studenti", "effects": {"trad": 2}},
-    {"id": 52, "question": "La scuola dovrebbe fornire più occasione di socialità.", "effects": {"gest": 2}},
-    {"id": 53, "question": "La Presidenza dovrebbe favorire la creazione di movimenti studenteschi.", "effects": {"work": -2}},
-    {"id": 54, "question": "Le Assemblee di Istituto rappresentano un buon mezzo di confronto tra studenti..", "effects": {"gest": -2}},
-    {"id": 55, "question": "La scuola dovrebbe avere più autonomia e dipendere meno da enti esterni, come la Provincia.", "effects": {"gest": 2}},
-    {"id": 56, "question": "L’obbligo di frequenza a scuola non dovrebbe essere necessario.", "effects": {"work": 2}},
-    {"id": 57, "question": "Sarebbe utile per il buon funzionamento della scuola ridurre il tasso corrente di ipocrisia e provare ad affrontare i problemi esistenti in termini di realtà.", "effects": {"trad": -2}}        
+    {"id": 50, "question": "Le attrezzature presenti nei laboratori non sono al passo coi tempi.", "effects": {"trad": 1}},
+    {"id": 51, "question": "La frequenza di utilizzo dei laboratori da parte di tutte le classi è adeguata agli insegnamenti.", "effects": {"gest": -1}},
+    {"id": 52, "question": "Il personale non docente dei collaboratori scolastici si dimostra collaborativo nello svolgimento delle sue funzioni.", "effects": {"trad": 1}},
+    {"id": 53, "question": "Il personale scolastico amministrativo si pone con grande disponibilità verso i problemi degli studenti", "effects": {"trad": 2}},
+    {"id": 54, "question": "La scuola dovrebbe fornire più occasione di socialità.", "effects": {"gest": 2}},
+    {"id": 55, "question": "La Presidenza dovrebbe favorire la creazione di movimenti studenteschi.", "effects": {"work": -2}},
+    {"id": 56, "question": "Le Assemblee di Istituto rappresentano un buon mezzo di confronto tra studenti..", "effects": {"gest": -2}},
+    {"id": 57, "question": "La scuola dovrebbe avere più autonomia e dipendere meno da enti esterni, come la Provincia.", "effects": {"gest": 2}},
+    {"id": 58, "question": "L’obbligo di frequenza a scuola non dovrebbe essere necessario.", "effects": {"work": 2}},
+    {"id": 59, "question": "Sarebbe utile per il buon funzionamento della scuola ridurre il tasso corrente di ipocrisia e provare ad affrontare i problemi esistenti in termini di realtà.", "effects": {"trad": -2}}        
 ];
