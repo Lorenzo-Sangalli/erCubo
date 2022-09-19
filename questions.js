@@ -51,7 +51,7 @@ questions =  [
     {"id": 50, "question": "Il personale non docente dei collaboratori scolastici si dimostra collaborativo nello svolgimento delle sue funzioni.", "effects": {"trad": 1}},
     {"id": 51, "question": "Il personale scolastico amministrativo si pone con grande disponibilità verso i problemi degli studenti", "effects": {"trad": 2}},
     {"id": 52, "question": "La scuola dovrebbe fornire più occasione di socialità.", "effects": {"gest": 2}},
-    {"id": 53, "question": "La Presidenza dovrebbe favorire la creazione di movimenti studenteschi.", "effects": {"work": -2}},
+    {"id": 53, "question": "La Presidenza dovrebbe favorire la creazione di movimenti studenteschi.", "effects": {"gest": 2}},
     {"id": 54, "question": "Le Assemblee di Istituto rappresentano un buon mezzo di confronto tra studenti..", "effects": {"gest": -2}},
     {"id": 55, "question": "La scuola dovrebbe avere più autonomia e dipendere meno da enti esterni, come la Provincia.", "effects": {"gest": 2}},
     {"id": 56, "question": "L’obbligo di frequenza a scuola non dovrebbe essere necessario.", "effects": {"work": 2}},
